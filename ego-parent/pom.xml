@@ -34,7 +34,7 @@
 		<spring-boot-starter-dubbo>1.0.0</spring-boot-starter-dubbo>
 		<springboot-mybatis>2.1.0</springboot-mybatis>
 		<springboot-test>2.1.8.RELEASE</springboot-test>
-		<fastjson-version>1.2.4</fastjson-version>
+		<fastjson-version>1.2.25</fastjson-version>
 		<jasper-version>9.0.24</jasper-version>
 		<starterweb-version>2.1.8.RELEASE</starterweb-version>
 		<druid-version>1.1.6</druid-version>
