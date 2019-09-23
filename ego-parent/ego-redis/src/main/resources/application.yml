@@ -1,0 +1,16 @@
+#端口
+server:
+  port: 8086
+
+#配置redis
+spring:
+  redis:
+    host: 6379
+    host: 192.168.109.128
+
+#redis的key
+redis:
+  bigpic.key: bigpic
+  item.key: item:
+  desc.key: desc:
+
