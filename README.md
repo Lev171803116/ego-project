@@ -1,6 +1,6 @@
 # ego-project #
-<img src="/img/wechat.jpg" width = "200" height = "200"/>
-![https://github.com/Lev171803116/ego-project](https://github.com/Lev171803116/ego-project)      
+<img src="/img/wechat.jpg" width = "200" height = "200"/>     
+[https://github.com/Lev171803116/ego-project](https://github.com/Lev171803116/ego-project)     
 
 ### 该项目是一个商城系统，采用SpringBoot+dubbo+Redis开发。 ###
 ## tips ##
