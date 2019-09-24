@@ -1,6 +1,7 @@
 # ego-project #
 <img src="/img/wechat.jpg" width = "200" height = "200"/>
-[https://github.com/Lev171803116/ego-project](https://github.com/Lev171803116/e)
+[https://github.com/Lev171803116/ego-project](https://github.com/Lev171803116/e)      
+
 ### 该项目是一个商城系统，采用SpringBoot+dubbo+Redis开发。 ###
 ## tips ##
 ### 由于整个项目功能比较多，也比较繁琐，使用的都是一些当前比较主流的技术，目的是在于把一些常用到的技术或框架整合在一个项目中，便于理解项目开发的流程以及各种技术、框架在项目中起到的作用，从而更好地进行学习。因为此次开发主要学习后台的一些开源框架，所以前端就采用模板了（有可能的话再更改前端部分）。 ###
